@@ -20,7 +20,7 @@
 - 🎓 Pre-final-year B.Tech student in **Mathematics & Data Science** at **MANIT Bhopal** (2023–2027), CGPA **8.39**
 - 🧠 I build **AI-powered SaaS products**: real-time voice agents, personalized learning platforms, and LLM-driven workflows with Gemini
 - 🔬 I also work on **applied ML research**: federated learning and LSTM-based cloud resource forecasting on Google Cluster Trace data
-- 🧩 **800+ DSA problems** solved across LeetCode, Codeforces and GeeksforGeeks
+- 🧩 **900+ DSA problems** solved across LeetCode, Codeforces and GeeksforGeeks
 - 🥇 **Top-10 Finish**, Swafinix AI Agents Hackathon 2025 (Team KLASHMAP)
 - 🎭 **Event Manager at Tooryanaad Society, MANIT**, leading a team of 10+ volunteers for events with 200+ participants
 - 📫 Reach me via [email](mailto:ch.madhusudhan28@gmail.com) or [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID). Always happy to connect
